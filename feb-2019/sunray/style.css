@@ -975,6 +975,13 @@ input[type=number]:hover {
         height: 300px;
     }
 
+    .image_accordian h2 {
+        font-size: 35px;
+    }
+    .image_accordian p {
+        font-size: 12px;
+    }
+
 }
 /* code ends of Gopal Kumar */
 
