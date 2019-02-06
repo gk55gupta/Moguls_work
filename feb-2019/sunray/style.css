@@ -993,6 +993,20 @@ input[type=number]:hover {
         font-size: 12px;
     }
 
+    .about_img_box {
+        width: 45%;
+    }
+    .about_detail_box {
+        width: 55%;
+    }
+
+    .about_container2 .about_detail_box {
+        width: 50%;
+    }
+    .about_detail_box h1 {
+        font-size: 40px;
+    }
+
 }
 /* code ends of Gopal Kumar */
 
