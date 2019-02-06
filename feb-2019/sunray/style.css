@@ -938,6 +938,10 @@ input[type=number]:hover {
         margin: auto;
     }
 
+    .event_box p {
+        padding-right: 55px;
+        padding-left: 55px;
+    }
 
     .dine_text_box {
         max-width: none;
