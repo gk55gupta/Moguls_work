@@ -925,7 +925,7 @@ input[type=number]:hover {
 	
 }   
 
-/* responsive for mid end pc to low-end pc  */
+/* responsive css for mid end pc to low-end pc  */
 @media screen and (min-width: 1024px) and (max-width: 1280px) {
 
     .about_img_box {
